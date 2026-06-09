@@ -1,0 +1,16 @@
+{
+  "title": "The Count of Monte Cristo",
+  "shortTitle": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "translator": "Chapman and Hall",
+  "year": 1846,
+  "source": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall",
+  "words": 461521,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/TheCountOfMonteCristo",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+  "blurb": "foo",
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
+}
